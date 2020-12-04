@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.3521996a.chunk.css",
-    "main.js": "/static/js/main.b9f8a51c.chunk.js",
-    "main.js.map": "/static/js/main.b9f8a51c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4660adcd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4660adcd.js.map",
-    "static/css/2.43b2b750.chunk.css": "/static/css/2.43b2b750.chunk.css",
-    "static/js/2.02288057.chunk.js": "/static/js/2.02288057.chunk.js",
-    "static/js/2.02288057.chunk.js.map": "/static/js/2.02288057.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.43b2b750.chunk.css.map": "/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.3521996a.chunk.css.map": "/static/css/main.3521996a.chunk.css.map",
-    "static/js/2.02288057.chunk.js.LICENSE.txt": "/static/js/2.02288057.chunk.js.LICENSE.txt",
-    "static/media/TrigoMathLogo.9b30adc6.webp": "/static/media/TrigoMathLogo.9b30adc6.webp",
-    "static/media/apoapps_logo.a9492b2b.png": "/static/media/apoapps_logo.a9492b2b.png",
-    "static/media/github-logo.12de4c41.png": "/static/media/github-logo.12de4c41.png"
+    "main.css": "/Alexlink2004/cachiang-react/actions/new/static/css/main.b8488ce8.chunk.css",
+    "main.js": "/Alexlink2004/cachiang-react/actions/new/static/js/main.ffd5468c.chunk.js",
+    "main.js.map": "/Alexlink2004/cachiang-react/actions/new/static/js/main.ffd5468c.chunk.js.map",
+    "runtime-main.js": "/Alexlink2004/cachiang-react/actions/new/static/js/runtime-main.1c16eb7d.js",
+    "runtime-main.js.map": "/Alexlink2004/cachiang-react/actions/new/static/js/runtime-main.1c16eb7d.js.map",
+    "static/css/2.43b2b750.chunk.css": "/Alexlink2004/cachiang-react/actions/new/static/css/2.43b2b750.chunk.css",
+    "static/js/2.02288057.chunk.js": "/Alexlink2004/cachiang-react/actions/new/static/js/2.02288057.chunk.js",
+    "static/js/2.02288057.chunk.js.map": "/Alexlink2004/cachiang-react/actions/new/static/js/2.02288057.chunk.js.map",
+    "index.html": "/Alexlink2004/cachiang-react/actions/new/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/Alexlink2004/cachiang-react/actions/new/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.b8488ce8.chunk.css.map": "/Alexlink2004/cachiang-react/actions/new/static/css/main.b8488ce8.chunk.css.map",
+    "static/js/2.02288057.chunk.js.LICENSE.txt": "/Alexlink2004/cachiang-react/actions/new/static/js/2.02288057.chunk.js.LICENSE.txt",
+    "static/media/TrigoMathLogo.9b30adc6.webp": "/Alexlink2004/cachiang-react/actions/new/static/media/TrigoMathLogo.9b30adc6.webp",
+    "static/media/github-logo.12de4c41.png": "/Alexlink2004/cachiang-react/actions/new/static/media/github-logo.12de4c41.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4660adcd.js",
+    "static/js/runtime-main.1c16eb7d.js",
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.02288057.chunk.js",
-    "static/css/main.3521996a.chunk.css",
-    "static/js/main.b9f8a51c.chunk.js"
+    "static/css/main.b8488ce8.chunk.css",
+    "static/js/main.ffd5468c.chunk.js"
   ]
 }
