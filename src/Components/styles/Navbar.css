@@ -1,0 +1,24 @@
+.container {
+    
+    background-color: white;
+    border-radius: 30px;
+}
+
+.brand__logo{
+    border-radius: 100%;
+    margin: 1%;
+}
+
+.item-style{
+    padding:1%;
+}
+
+.gh-logo{
+    width: 10%;
+    height: 10%;
+}
+
+
+@media (min-width: 1200px){
+
+}

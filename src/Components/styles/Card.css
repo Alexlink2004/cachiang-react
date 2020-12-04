@@ -1,0 +1,30 @@
+
+
+
+.portfolio__item{
+    border-radius: 30px;
+    border-color: white;
+    width: 100x;
+
+    
+}
+
+.card__container{
+    /* height: 30%; */
+    padding: 8%;
+}
+
+
+.c-img{
+    border-radius: 30px;
+    display: flex;
+}
+
+.portfolio__item{
+    box-shadow: 1px 0px 12px  #9e9e9e;
+    
+}
+
+.button{
+    margin: 10px;
+}
