@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/alexlink2004.github.io/cachiang-react/static/css/main.b8488ce8.chunk.css",
-    "main.js": "/alexlink2004.github.io/cachiang-react/static/js/main.ffd5468c.chunk.js",
-    "main.js.map": "/alexlink2004.github.io/cachiang-react/static/js/main.ffd5468c.chunk.js.map",
-    "runtime-main.js": "/alexlink2004.github.io/cachiang-react/static/js/runtime-main.751d8107.js",
-    "runtime-main.js.map": "/alexlink2004.github.io/cachiang-react/static/js/runtime-main.751d8107.js.map",
+    "main.js": "/alexlink2004.github.io/cachiang-react/static/js/main.b1a89cdb.chunk.js",
+    "main.js.map": "/alexlink2004.github.io/cachiang-react/static/js/main.b1a89cdb.chunk.js.map",
+    "runtime-main.js": "/alexlink2004.github.io/cachiang-react/static/js/runtime-main.354f7951.js",
+    "runtime-main.js.map": "/alexlink2004.github.io/cachiang-react/static/js/runtime-main.354f7951.js.map",
     "static/css/2.43b2b750.chunk.css": "/alexlink2004.github.io/cachiang-react/static/css/2.43b2b750.chunk.css",
-    "static/js/2.02288057.chunk.js": "/alexlink2004.github.io/cachiang-react/static/js/2.02288057.chunk.js",
-    "static/js/2.02288057.chunk.js.map": "/alexlink2004.github.io/cachiang-react/static/js/2.02288057.chunk.js.map",
+    "static/js/2.4ba0aeb9.chunk.js": "/alexlink2004.github.io/cachiang-react/static/js/2.4ba0aeb9.chunk.js",
+    "static/js/2.4ba0aeb9.chunk.js.map": "/alexlink2004.github.io/cachiang-react/static/js/2.4ba0aeb9.chunk.js.map",
     "index.html": "/alexlink2004.github.io/cachiang-react/index.html",
     "static/css/2.43b2b750.chunk.css.map": "/alexlink2004.github.io/cachiang-react/static/css/2.43b2b750.chunk.css.map",
     "static/css/main.b8488ce8.chunk.css.map": "/alexlink2004.github.io/cachiang-react/static/css/main.b8488ce8.chunk.css.map",
-    "static/js/2.02288057.chunk.js.LICENSE.txt": "/alexlink2004.github.io/cachiang-react/static/js/2.02288057.chunk.js.LICENSE.txt",
+    "static/js/2.4ba0aeb9.chunk.js.LICENSE.txt": "/alexlink2004.github.io/cachiang-react/static/js/2.4ba0aeb9.chunk.js.LICENSE.txt",
     "static/media/TrigoMathLogo.9b30adc6.webp": "/alexlink2004.github.io/cachiang-react/static/media/TrigoMathLogo.9b30adc6.webp",
     "static/media/github-logo.12de4c41.png": "/alexlink2004.github.io/cachiang-react/static/media/github-logo.12de4c41.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.751d8107.js",
+    "static/js/runtime-main.354f7951.js",
     "static/css/2.43b2b750.chunk.css",
-    "static/js/2.02288057.chunk.js",
+    "static/js/2.4ba0aeb9.chunk.js",
     "static/css/main.b8488ce8.chunk.css",
-    "static/js/main.ffd5468c.chunk.js"
+    "static/js/main.b1a89cdb.chunk.js"
   ]
 }
