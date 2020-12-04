@@ -18,6 +18,10 @@
     height: 10%;
 }
 
+.navbar-custom{
+    background: #272643;
+}
+
 
 @media (min-width: 1200px){
 

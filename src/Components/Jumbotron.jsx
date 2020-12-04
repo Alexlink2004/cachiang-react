@@ -1,14 +1,14 @@
-
+import './styles/Jumbotron.css';
 
 export default function Jumbotron  (props) {
     return(
-        <div className="jumbotron">
+      <div className="jumbotron card-style">
   <h1 className="display-4">{props.title}</h1>
-    <p className="lead">{props.lead}</p>
+  <p className="lead"> {props.lead}</p>
   
-    <p>{props.text}</p>
+    <p>{props.description}</p>
   <p className="lead">
-    <a className="btn btn-primary btn-lg" href="#down-btn" role="button">Descargar ahora!</a>
+      <a className="btn btn-primary btn-lg" href="#/" role="button">{props.buttonText}</a> 
   </p>
 </div>
     );

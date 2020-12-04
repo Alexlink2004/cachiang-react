@@ -1,7 +1,9 @@
 import "./styles/Navbar.css";
-import logo from "../Assets/Logos/apoapps_logo.png";
 import ghLogo from "../Assets/Logos/github-logo.png";
 function NavBar(props) {
+
+  let logo = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevpost.com%2Fachiang504&psig=AOvVaw0ivU9q8L9_FRmm4OBbK0Jk&ust=1607141265311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD5j_a5s-0CFQAAAAAdAAAAABAX";
+
   return (
     <nav className="navbar navbar-expand-md bg-light navbar-light">
       
@@ -16,7 +18,7 @@ function NavBar(props) {
       />
       
       
-      <h3 id="nav-logo">ApoApps</h3>
+      <h3 id="nav-logo">Grupo Cachiang IPS</h3>
 
       <button
         className="navbar-toggler"
@@ -35,16 +37,8 @@ function NavBar(props) {
               Acerca de mi
             </a>
           </li>
-          <li className="nav-item item-style">
-            <a className="nav-link" href="https://www.youtube.com/channel/UC-LPXAK9zMiCOCWMZiO23tA">
-              Mi youtube 
-            </a>
-            </li>
-            <li className="nav-item item-style">
-            <a className="nav-link" href="https://github.com/Alexlink2004">
-              <img src={ghLogo}alt="Github Logo" className="gh-logo"/> 
-            </a>
-            </li>
+          
+            
         </ul>
       </div>
     </nav>
