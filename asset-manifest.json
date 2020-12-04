@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cachiang-react/static/css/main.b8488ce8.chunk.css",
-    "main.js": "/cachiang-react/static/js/main.b1a89cdb.chunk.js",
-    "main.js.map": "/cachiang-react/static/js/main.b1a89cdb.chunk.js.map",
+    "main.js": "/cachiang-react/static/js/main.4384d610.chunk.js",
+    "main.js.map": "/cachiang-react/static/js/main.4384d610.chunk.js.map",
     "runtime-main.js": "/cachiang-react/static/js/runtime-main.25626674.js",
     "runtime-main.js.map": "/cachiang-react/static/js/runtime-main.25626674.js.map",
     "static/css/2.43b2b750.chunk.css": "/cachiang-react/static/css/2.43b2b750.chunk.css",
@@ -12,14 +12,13 @@
     "static/css/2.43b2b750.chunk.css.map": "/cachiang-react/static/css/2.43b2b750.chunk.css.map",
     "static/css/main.b8488ce8.chunk.css.map": "/cachiang-react/static/css/main.b8488ce8.chunk.css.map",
     "static/js/2.4ba0aeb9.chunk.js.LICENSE.txt": "/cachiang-react/static/js/2.4ba0aeb9.chunk.js.LICENSE.txt",
-    "static/media/TrigoMathLogo.9b30adc6.webp": "/cachiang-react/static/media/TrigoMathLogo.9b30adc6.webp",
-    "static/media/github-logo.12de4c41.png": "/cachiang-react/static/media/github-logo.12de4c41.png"
+    "static/media/TrigoMathLogo.9b30adc6.webp": "/cachiang-react/static/media/TrigoMathLogo.9b30adc6.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.25626674.js",
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.4ba0aeb9.chunk.js",
     "static/css/main.b8488ce8.chunk.css",
-    "static/js/main.b1a89cdb.chunk.js"
+    "static/js/main.4384d610.chunk.js"
   ]
 }
