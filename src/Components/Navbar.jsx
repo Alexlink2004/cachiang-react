@@ -1,9 +1,9 @@
 import "./styles/Navbar.css";
-import ghLogo from "../Assets/Logos/github-logo.png";
+import logo from '../Assets/Logos/cachiangLogo.png'
+
 function NavBar(props) {
 
-  let logo = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevpost.com%2Fachiang504&psig=AOvVaw0ivU9q8L9_FRmm4OBbK0Jk&ust=1607141265311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD5j_a5s-0CFQAAAAAdAAAAABAX";
-
+  
   return (
     <nav className="navbar navbar-expand-md bg-light navbar-light">
       
@@ -32,9 +32,19 @@ function NavBar(props) {
 
       <div className="collapse navbar-collapse" id="collapsibleNavbar">
       <ul className="navbar-nav ">
-          <li className="nav-item item-style " >
-            <a className="nav-link" href="#/me">
-              Acerca de mi
+          <li className="nav-item " >
+            <a className="nav-link " href="#/me">
+              CEO
+            </a>
+          </li>
+          <li className="nav-item " >
+            <a className="nav-link " href="https://www.linkedin.com/in/adrian-c%C3%A1rdenaschiang1512/">
+              Linkedin
+            </a>
+          </li>
+          <li className="nav-item " >
+            <a className="nav-link " href="https://devpost.com/achiang504">
+              DevPost
             </a>
           </li>
           

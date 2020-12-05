@@ -1,8 +1,10 @@
 import './styles/Jumbotron.css';
 
+
+
 export default function Jumbotron  (props) {
     return(
-      <div className="jumbotron card-style">
+      <div className={"jumbotron  card-style " + props.jumboType}>
   <h1 className="display-4">{props.title}</h1>
   <p className="lead"> {props.lead}</p>
   
@@ -13,3 +15,5 @@ export default function Jumbotron  (props) {
 </div>
     );
 }
+
+

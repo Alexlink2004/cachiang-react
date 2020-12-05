@@ -9,6 +9,7 @@ function HomePage() {
         title="Acerca de nosotros"
         lead="Somos un grupo de"
         description="a"
+        jumboType="jumbo-blue"
         
         
         />
@@ -21,6 +22,15 @@ function HomePage() {
         lead="Sistema de limpiado de agua"
         description="fgjnsirnos"
         buttonText="Saber Mas"
+        jumboType="jumbo-light-grey"
+        
+        />
+        <Jumbotron
+        title="Agua Doble Vida Systems"
+        lead="Sistema de limpiado de agua"
+        description="fgjnsirnos"
+        buttonText="Saber Mas"
+        jumboType="jumbo-dark-grey"
         
         />
         

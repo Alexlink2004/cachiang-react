@@ -8,7 +8,6 @@ import Page404 from './Pages/404.jsx'
 
 import "./App.css";
 import "./Assets/Logos/TrigoMathLogo.webp";
-import virusLogo from  './Assets/Logos/alexvsviruslogo.png';
 
 export default function app() {
   return (
@@ -22,6 +21,10 @@ export default function app() {
         </Route>
         
         <Route exact path="/" component={HomePage}>
+          <HomePage />
+        </Route>
+
+        <Route exact path="/cachiang-react" component={HomePage}>
           <HomePage />
         </Route>
         

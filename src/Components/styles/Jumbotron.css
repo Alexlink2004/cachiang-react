@@ -1,4 +1,22 @@
 .card-style{
-    background-color: #1D3557;
+    
     color: aliceblue;
+    border-radius: 0;
+    margin: 0;
+}
+
+.jumbo-blue{
+    background-color: #1D3557;
+}
+
+.jumbo-white{
+    background-color: white;
+}
+
+.jumbo-light-grey{
+    background-color: #808080;
+}
+
+.jumbo-dark-grey{
+    background-color: #5A5A5A;
 }
