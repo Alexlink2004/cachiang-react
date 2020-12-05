@@ -5,3 +5,22 @@
     padding: 30px;
     color: white;
 }
+
+.footer-style{
+    text-align:center;
+    
+    margin: 20;
+    padding: 30;
+ 
+    
+}
+
+.footer-container{
+    border-radius: 0;
+    
+}
+
+.link:link{
+    text-decoration: none;
+    
+}

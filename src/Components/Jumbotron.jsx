@@ -10,7 +10,7 @@ export default function Jumbotron  (props) {
   
     <p>{props.description}</p>
   <p className="lead">
-      <a className="btn btn-light btn-lg" href="#/" role="button">{props.buttonText}</a> 
+      <a className="btn btn-light btn-lg" href={props.buttonLink} role="button">{props.buttonText}</a> 
   </p>
 </div>
     );
